@@ -2,6 +2,8 @@
 
 A professional, full-stack e-commerce application built with modern web technologies. This project features a robust Node.js/Express backend and a dynamic, high-performance React frontend.
 
+![Homepage](/frontend/public/Homepage.png)
+
 ## 🚀 Features
 
 - **User Authentication:** Secure login and registration using JWT and Bcrypt.
