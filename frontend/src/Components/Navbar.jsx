@@ -334,14 +334,14 @@ const Navbar = () => {
             ) : (
               <div className="flex flex-col w-full gap-2">
                 <Link
-                  to="/login"
+                  to="/login-signup"
                   onClick={() => setIsMobileMenuOpen(false)}
                   className="w-full py-3 text-center text-sm font-bold text-slate-700 hover:bg-white/80 rounded-xl transition-colors"
                 >
                   Log In
                 </Link>
                 <Link
-                  to="/signup"
+                  to="/login-signup"
                   onClick={() => setIsMobileMenuOpen(false)}
                   className="w-full py-3 text-center text-sm font-bold bg-slate-900 text-white rounded-xl hover:bg-blue-600 transition-colors shadow-sm"
                 >
